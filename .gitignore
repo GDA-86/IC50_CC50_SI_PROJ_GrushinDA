@@ -1,0 +1,16 @@
+# Игнорировать файлы настроек VS Code
+.vscode/
+
+# Игнорировать временные файлы Python
+__pycache__/
+
+*.pyc
+
+*.csv
+*.xlsx
+*.xls
+
+#*.ipynb
+
+
+*venv/
